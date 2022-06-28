@@ -1,6 +1,6 @@
 # T-shirt Shop
 
-This project was bootstrapped with [Shome-Shoes](https://shome-shoes.firebaseapp.com/).
+This project was bootstrapped with [T-shirt Shop](https://t-shirt-online-shop.netlify.app/).
 * This a online T-shirt shop Website.
 * Here anyone search various types of t-shirts for their need.
 * Anyone buy their desirable t-shirt which they will need.
