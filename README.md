@@ -1,4 +1,4 @@
-# Shome Shoes
+# T-shirt Shop
 
 This project was bootstrapped with [Shome-Shoes](https://shome-shoes.firebaseapp.com/).
 * This a online Shoes Website.
